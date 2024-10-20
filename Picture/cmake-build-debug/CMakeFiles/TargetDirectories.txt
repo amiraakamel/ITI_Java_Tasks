@@ -1,0 +1,3 @@
+D:/amira/ITI Tasks Java/Picture/cmake-build-debug/CMakeFiles/Picture.dir
+D:/amira/ITI Tasks Java/Picture/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/amira/ITI Tasks Java/Picture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

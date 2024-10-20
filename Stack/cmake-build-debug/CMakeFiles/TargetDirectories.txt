@@ -1,0 +1,3 @@
+D:/amira/ITI Tasks Java/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+D:/amira/ITI Tasks Java/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/amira/ITI Tasks Java/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -18,7 +18,7 @@ public:
 	int isEmpty();
 	int push(int num);
 	int pop();
-	friend void viewContent(Stack s); 
+	friend void viewContent(Stack s);
 	//friend void viewContent(Stack& s);
 
 };
@@ -82,7 +82,7 @@ void viewContent(Stack s) {
 	}
 }
 
-/*call by reference 
+/*call by reference
 void viewContent(Stack& s) {
 	for (int i = 0; i < s.top; i++) {
 		cout << s.ptr[i] << endl;
@@ -100,6 +100,6 @@ int main() {
 
 	cout << s.pop() << endl;
 	cout << s.pop() << endl;
-	
+
 	return 0;
 }
